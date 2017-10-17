@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA8A8987-5F07-46B1-A76D-A548B3101152</string>
+	<key>IDESourceControlProjectName</key>
+	<string>nRF Toolbox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DA66CF6-BFE3-43A3-8D72-5C453C2C4A63</key>
+		<string>https://github.com/kavi112/Mustino_dev1.0a.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mustino_IOS/nRF Toolbox.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DA66CF6-BFE3-43A3-8D72-5C453C2C4A63</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kavi112/Mustino_dev1.0a.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DA66CF6-BFE3-43A3-8D72-5C453C2C4A63</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DA66CF6-BFE3-43A3-8D72-5C453C2C4A63</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mustino_dev1.0a</string>
+		</dict>
+	</array>
+</dict>
+</plist>
